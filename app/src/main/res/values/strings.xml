@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Course Prework</string>
+    <string name="homeText">Hello World! My name is Emily. I love Android Development and golden retreivers.</string>
+    <string name="home_button_text">Say Hello!</string>
+</resources>
