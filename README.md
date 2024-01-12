@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/FrickTob/CodePath-Course-Prework/blob/master/GoldenRetrieverGif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
